@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cc3d9e29252b443c",
+        "id": "b496401a4099d3e0",
         "type": "tabs",
         "children": [
           {
-            "id": "087072a0c94463e3",
+            "id": "a2016cf4508beae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "행정업무/개인업무평가/개인업무평가@2023.md",
+                "file": "연구업무/CSTEM/HV Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5e67ef99f3f7704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연구업무/CSTEM/Goniometer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "행정업무/개인업무평가/개인업무평가@2023.md",
+                "file": "연구업무/CSTEM/Goniometer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "행정업무/개인업무평가/개인업무평가@2023.md",
+                "file": "연구업무/CSTEM/Goniometer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "행정업무/개인업무평가/개인업무평가@2023.md"
+                "file": "연구업무/CSTEM/Goniometer.md"
               }
             }
           }
@@ -146,13 +159,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ed28112194c6cb17",
+  "active": "f5e67ef99f3f7704",
   "lastOpenFiles": [
-    "행정업무/개인업무평가",
-    "행정업무/개인업무평가.md",
+    "연구업무/CSTEM/HV Control.md",
+    "연구업무/CSTEM/Goniometer.md",
+    "Test file.md",
     "행정업무/개인업무평가/개인업무평가@2023.md",
     "README.md",
-    "연구업무/CSTEM/HV Control.md",
+    "행정업무/개인업무평가",
+    "행정업무/개인업무평가.md",
     "연구업무/CSTEM",
     "연구업무",
     "행정업무"
